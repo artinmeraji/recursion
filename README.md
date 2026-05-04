@@ -1,4 +1,4 @@
-# C++ RECURSION HOMEWORK 🚀
+# C++ RECURSION HOMEWORK 
 
 **Yo, here is my recursion assignment!** I've broken it down by question. All the actual code logic is inside the `solutions.cpp` file if you want to run it.
 
@@ -41,4 +41,4 @@ This way, it doesn't matter how many brackets are there, the code will **dig all
 ---
 
 ### **Conclusion**
-**Recursion is basically just a loop that is way more fancy (and easier to break if you forget the base case).** Everything is pushed to the repo now. Time for more coffee. ☕
+**Recursion is basically just a loop that is way more fancy (and easier to break if you forget the base case).** Everything is pushed to the repo now. Time for more coffee. 
